@@ -13,7 +13,7 @@ const rl = readline.createInterface({
 rl.prompt();
 
 rl.on('line', (input) => {
-	const solution = solveInput(input);
+	solveInput(input);
     rl.prompt()
 }).on('close', () => {
     console.clear();
