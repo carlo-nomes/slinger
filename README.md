@@ -77,3 +77,6 @@ INPUT>
 
 ## Run test
 Run the program against the 100 inputs and expected outputs provided by the [www.vlaamseprogrammeerwedstrijd.be](www.vlaamseprogrammeerwedstrijd.be).
+```
+$ node slinger/test
+```
