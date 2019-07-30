@@ -2,7 +2,7 @@
 This is a solution to the _slinger_ problem from [vlaamse programmeer wedstrijd](https://www.vlaamseprogrammeerwedstrijd.be).
 
 ## Problem
-Problem description from [www.vlaamseprogrammeerwedstrijd.be](www.vlaamseprogrammeerwedstrijd.be)
+Problem description from [www.vlaamseprogrammeerwedstrijd.be](https://vlaamseprogrammeerwedstrijd.be)
 
 ### Foute slingers
 #### Opgave
@@ -76,7 +76,7 @@ INPUT>
 ```
 
 ## Run test
-Run the program against the 100 inputs and expected outputs provided by the [www.vlaamseprogrammeerwedstrijd.be](www.vlaamseprogrammeerwedstrijd.be).
+Run the program against the 100 inputs and expected outputs provided by the [www.vlaamseprogrammeerwedstrijd.be](https://vlaamseprogrammeerwedstrijd.be).
 ```
 $ node slinger/test
 ```
